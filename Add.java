@@ -10,3 +10,10 @@ class x1
     b=11;
     c=a+b;
     System.out.println(c);
+    
+    
+    //Subtraction of two numbers:
+    c=a-b;
+    System.out.println(c);
+    
+  }}
