@@ -16,4 +16,8 @@ class x1
     c=a-b;
     System.out.println(c);
     
+    //multiplication of two numbers:
+    c=a*b;
+    System.out.println(c);
+    
   }}
